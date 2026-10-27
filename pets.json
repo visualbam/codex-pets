@@ -25,8 +25,9 @@
         8,
         8
       ],
-      "sha256": "c7b6762dbec5d90c6c4dd0d0ac2c7388be25b581c798c9b27d02aa7f9cfd30b6",
-      "size_bytes": 3718457
+      "sha256": "ed9cf6c600c4dda5baf791ea11537b771ffbc82a2dd55e5af12a5b560ce8b5da",
+      "size_bytes": 3579508,
+      "firing_preview": "pets/blues/buster-shot.gif"
     },
     {
       "name": "Blues.EXE",

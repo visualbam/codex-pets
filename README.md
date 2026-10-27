@@ -7,7 +7,9 @@ Three Gruvbox pixel-art companions: **Blues**, **Blues.EXE**, and **Broly**.
 | ![Blues](pets/blues/stills.png) | ![Blues.EXE](pets/blues-exe/stills.png) |
 | [Animated preview](pets/blues/preview.gif) · [Video](pets/blues/preview.mp4) | [Animated preview](pets/blues-exe/preview.gif) · [Video](pets/blues-exe/preview.mp4) |
 
-Classic Blues uses the original approved design with plain red boots and no leg reflectors. Blues.EXE retains the silver hair, opaque visor, cyber blade, and crimson armor. Each has nine animation states and sixteen look directions.
+Classic Blues uses the approved classic design: a smooth gray suit, plain red waist band, pointed white forehead crest, green ear disks, and plain red boots with no leg reflectors. His former wave is now a compact buster shot with recoil.
+
+[Buster firing loop](pets/blues/buster-shot.gif). Blues.EXE retains the silver hair, opaque visor, cyber blade, and crimson armor. Each has nine animation states and sixteen look directions.
 
 ## Broly
 
